@@ -7,4 +7,3 @@ python-docx
 python-dotenv
 pydantic
 tqdm
-pysqlite3

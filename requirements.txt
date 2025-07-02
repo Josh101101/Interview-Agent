@@ -127,9 +127,6 @@ pathspec==0.12.1
 pdfminer-six==20250506
 pdfplumber==0.11.7
 pillow==11.3.0
-pinecone==7.3.0
-pinecone-plugin-assistant==1.7.0
-pinecone-plugin-interface==0.0.7
 platformdirs==4.3.8
 posthog==6.0.1
 pre-commit==4.2.0
@@ -184,7 +181,6 @@ sqlalchemy==2.0.41
 stack-data==0.6.3
 starlette==0.46.2
 streamlit==1.46.1
-streamlit-webrtc==0.63.3
 sympy==1.14.0
 tenacity==9.1.2
 tiktoken==0.9.0
@@ -198,16 +194,9 @@ traitlets==5.14.3
 typer==0.16.0
 typing-extensions==4.14.0
 typing-inspection==0.4.1
-tzdata==2025.2
 uritemplate==4.2.0
 urllib3==2.5.0
 uv==0.7.18
 uvicorn==0.35.0
 virtualenv==20.31.2
-watchdog==6.0.0
-watchfiles==1.1.0
-wcwidth==0.2.13
-websocket-client==1.8.0
-websockets==15.0.1
-yarl==1.20.1
-zipp==3.23.0
+

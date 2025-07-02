@@ -1,0 +1,9 @@
+crewai
+fastapi
+uvicorn
+streamlit
+pypdf2
+python-docx
+python-dotenv
+pydantic
+tqdm

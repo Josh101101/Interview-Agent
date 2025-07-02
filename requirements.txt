@@ -165,8 +165,6 @@ python-docx==1.2.0
 python-dotenv==1.1.1
 python-multipart==0.0.20
 pytz==2025.2
-pyvis==0.3.2
-pywin32==310
 pyyaml==6.0.2
 pyyaml-env-tag==1.1
 pyzmq==27.0.0
@@ -210,6 +208,5 @@ watchfiles==1.1.0
 wcwidth==0.2.13
 websocket-client==1.8.0
 websockets==15.0.1
-whisper==1.1.10
 yarl==1.20.1
 zipp==3.23.0

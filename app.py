@@ -9,6 +9,9 @@ from PyPDF2 import PdfReader
 from docx import Document
 import ast
 from utils import extract_text_from_pdf, extract_text_from_docx, get_resume_text, extract_json_from_output
+__import__('pysqlite3')
+import sys
+sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 
 # Load environment variables
 load_dotenv()

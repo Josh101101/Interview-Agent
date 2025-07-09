@@ -1,7 +1,13 @@
 # AI Interview Agent
 
 A Streamlit-based AI Interview Agent that parses resumes, generates tailored interview questions, and evaluates candidate responses using advanced LLMs—all powered by Python.
-https://interview-agent.streamlit.app/
+---
+
+## 🌐 Live Demo
+
+Check out the live demo:  
+👉 [https://interview-agent.streamlit.app/](https://interview-agent.streamlit.app/)
+
 ---
 
 ## Features
